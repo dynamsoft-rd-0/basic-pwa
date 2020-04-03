@@ -1,6 +1,6 @@
 {
-    "name": "Dynamsoft Javascript Barcode",
-    "short_name": "Barcode JS",
+    "name": "dynamsoft basic pwa",
+    "short_name": "dynamsoft basic pwa",
     "start_url": "./",
     "scope": ".",
     "display": "standalone",
